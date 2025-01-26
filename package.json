@@ -4,6 +4,7 @@
   "private": true,
   "proxy": "http://localhost:9090",
   "dependencies": {
+    "@tanstack/react-query": "^5.64.2",
     "axios": "^1.7.9",
     "cra-template": "1.2.0",
     "expres": "^0.0.5",
